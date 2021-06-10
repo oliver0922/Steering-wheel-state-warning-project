@@ -1,9 +1,7 @@
-# kmuproject
-차량지능기초전반부프로젝트
+# Steering state warning project 
+Build Machine learning model which recognizes whether the driver grabs steering wheel.
 
 
 ## Description
 Refer the pdf file attached.
-
-## Reference
-https://github.com/nicknochnack/Body-Language-Decoder
+Also you can see the video describing the whole progress on https://youtu.be/q1S3YH3tHso
